@@ -1,0 +1,9 @@
+1488849622001	geckodriver	INFO	Listening on 127.0.0.1:56765
+1488849623196	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cdv3MhRyysAp
+1488849623197	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488849623201	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39657
+1488849626521	Marionette	INFO	Listening on port 39657
+1488849634633	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 7093] WARNING: pipe error (18): Conexión reinicializada por la máquina remota: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7093] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7093] ###!!! ABORT: Aborting on channel error.: file /build/firefox-z5GTBX/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
