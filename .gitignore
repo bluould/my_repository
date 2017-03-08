@@ -4,3 +4,5 @@ TaskBuster.sublime-workspace
 geckodriver.log
 
 
+.coverage
+htmlcov
